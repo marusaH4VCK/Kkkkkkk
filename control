@@ -1,0 +1,14 @@
+Package: com.minh.ghost
+Name: FF
+Version: 5.0.1
+Section: Utilities
+Architecture: iphoneos-arm
+Description: Hack Free Fire iOS
+SileoDepiction: FF
+dev: Minh
+Tag: MinhiOS
+Maintainer: MinhiOS
+Author: Quang Minh
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Homepage: https://pqmios.github.io
+
